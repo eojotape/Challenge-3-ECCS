@@ -55,3 +55,11 @@ Para integrar o Arduino ao Tago.io, você precisará seguir as instruções forn
 ## Considerações Finais
 
 Este projeto permite simular a medição dos gastos de energia dos LEDs e calcular a potência consumida por cada um. Lembre-se de que os valores de resistência dos resistores devem ser escolhidos corretamente para limitar a corrente através dos LEDs e garantir medições precisas. Além disso, esteja ciente de medidas de segurança ao lidar com eletricidade.
+
+
+## integrantes 
+João Pedro de Albuquerque Oliveira         RM:551579
+Maurício Santos Rodrigues                  RM: 551076
+Vitor Reyes Souza                          RM:550766
+Luis Serafin Bezagio Mendieta              RM:551588
+Pedro Augusto Carneiro Barone Bomfim       RM:99781
