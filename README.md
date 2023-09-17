@@ -35,6 +35,23 @@ Materiais Necessários
    Ajuste o potenciômetro para variar a tensão.
    Os valores de tensão, corrente e potência serão exibidos no Monitor Serial da IDE do Arduino.
 
+
+
+
+## Como o IOT pode ajudar no projeto
+   A Internet das Coisas (IoT) pode ser integrada ao projeto para monitorar e controlar o consumo de energia de forma remota. Um exemplo de plataforma IoT que pode ser usada é o Tago.io. Você pode configurar o Arduino para enviar dados de consumo de energia para o Tago.io usando uma conexão Wi-Fi. Aqui estão alguns benefícios da integração da IoT:
+
+- Monitoramento Remoto: Com o Tago.io, você pode acompanhar o consumo de energia dos LEDs em tempo real de qualquer lugar do mundo através de uma interface web ou aplicativo móvel.
+
+- Alertas de Consumo Excessivo: Você pode configurar o Tago.io para enviar notificações por e-mail quando o consumo de energia dos LEDs estiver acima do valor recomendado, permitindo uma resposta rápida a situações de alto consumo.
+
+- Armazenamento de Dados: A plataforma IoT permite armazenar e visualizar históricos de consumo de energia, facilitando a análise de tendências e o planejamento de eficiência energética.
+
+Para integrar o Arduino ao Tago.io, você precisará seguir as instruções fornecidas pela plataforma IoT e adaptar o código do Arduino para enviar os dados de medição para a nuvem. Certifique-se de configurar o Tago.io para que ele envie alertas de e-mail quando os níveis de consumo excederem os limites definidos.
+   
+
+
+
 ## Considerações Finais
 
 Este projeto permite simular a medição dos gastos de energia dos LEDs e calcular a potência consumida por cada um. Lembre-se de que os valores de resistência dos resistores devem ser escolhidos corretamente para limitar a corrente através dos LEDs e garantir medições precisas. Além disso, esteja ciente de medidas de segurança ao lidar com eletricidade.
